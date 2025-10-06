@@ -7,7 +7,7 @@ This project implements a **custom PPO (Proximal Policy Optimization) training a
 The simulation backend is powered by **Ignition Gazebo Fortress** and integrates directly with ROS 2 nodes for training, perception, and control.
 
 <p align="center">
-  <img src="rl_race/RL_archi.png" alt="RL Architecture" width="600">
+  <img src="PPO RL application in simulations.gif" width="600">
 </p>
 
 ---
@@ -29,6 +29,10 @@ The simulation backend is powered by **Ignition Gazebo Fortress** and integrates
 - **Automatic Mapping & SLAM**
     - Agents can autonomously map the race track using **LIDAR-based SLAM**.
     - The generated map can be fed directly into the PPO training loop for environment understanding and policy refinement.
+
+  <p align="center">
+    <img src="SLAM2.gif" width="600">
+  </p>
 
 - **No External RL Libraries**
     - No Gymnasium or SB3.
