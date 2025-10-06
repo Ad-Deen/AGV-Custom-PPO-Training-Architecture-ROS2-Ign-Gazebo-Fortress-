@@ -7,7 +7,7 @@ This project implements a **custom PPO (Proximal Policy Optimization) training a
 The simulation backend is powered by **Ignition Gazebo Fortress** and integrates directly with ROS 2 nodes for training, perception, and control.
 
 <p align="center">
-  <img src="RL_archi.png" alt="RL Architecture" width="600">
+  <img src="rl_race/RL_archi.png" alt="RL Architecture" width="600">
 </p>
 
 ---
