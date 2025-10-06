@@ -124,7 +124,7 @@ ros2 run rl_race teleop_twist.py
 ## 📊 Training Flow
 
 <p align="center">
-  <img src="rl_race/RL_archi.png" alt="RL Loop" width="600">
+  <img src="rl_race/scripts/rl_loop.png" alt="RL Loop" width="600">
 </p>
 
 1. **Environment**: Ignition Gazebo provides lidar & perception data.
