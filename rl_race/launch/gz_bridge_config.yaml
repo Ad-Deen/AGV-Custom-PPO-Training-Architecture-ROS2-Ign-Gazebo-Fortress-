@@ -1,0 +1,5 @@
+bridge:
+  services:
+    - {gazebo: /world/PPO_agent/set_pose, ros2: /gazebo/set_pose, type: ignition.msgs.Pose::rl_race/srv/SetPose}
+    - {gazebo: /world/PPO_agent/set_pose_vector, ros2: /gazebo/set_pose_vector, type: ignition.msgs.Pose_V::rl_race/srv/SetPoseVector}
+    # Add more services as needed
