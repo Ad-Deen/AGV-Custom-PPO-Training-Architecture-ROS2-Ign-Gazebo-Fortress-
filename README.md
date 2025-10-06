@@ -19,18 +19,27 @@ The simulation backend is powered by **Ignition Gazebo Fortress** and integrates
     - Separate ANN and CNN policy options (`PPO_policy_ANN.py`, `PPO_policy_CNN.py`).
     - Tailored reward and loss functions (`PPO_reward_func.py`, `PPO_loss.py`).
     - Checkpointing and bias saving (`biases/value_NN.pth`).
+    - PPO designed for **continuous state spaces**, with the ability to generalize from **visual-based inputs** to estimate the most rewarding action probabilities.
+
 - **ROS 2 + Ignition Gazebo Fortress Integration**
     - Training runs entirely in Ignition Gazebo Fortress simulation.
     - ROS 2 nodes for perception, odometry, lane detection, and collision checking.
     - Launch files for different workflows (training, mapping, racing, data capture).
+
+- **Automatic Mapping & SLAM**
+    - Agents can autonomously map the race track using **LIDAR-based SLAM**.
+    - The generated map can be fed directly into the PPO training loop for environment understanding and policy refinement.
+
 - **No External RL Libraries**
     - No Gymnasium or SB3.
     - Direct interaction between simulation and PPO loop.
+
 - **Visualization & Debugging Tools**
     - Center line visualization (`center_line_viz.py`).
     - Learning curve visualization (`learning_viz.py`).
     - Odometry and trajectory visualization (`visualize_odometry.py`).
     - Episode logging in multiple formats (`.npy`, `.json`, `.txt`).
+
 - **Multi-Agent Ready (Future Extension)**
     - Modular structure for adding additional agents or multi-robot scenarios.
 
