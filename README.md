@@ -1,4 +1,4 @@
-# rl_race
+# A repository contain LIDAR Simultenous Mapping and Applied Reinforcement Learning(PPO) in ROS-Gazebo with custom setup
 
 🚗 **rl_race** is a **ROS 2 package** for reinforcement learning in autonomous racing tasks.
 
