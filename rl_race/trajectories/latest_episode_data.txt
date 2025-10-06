@@ -1,0 +1,395 @@
+[None None None None None None None 0.8 array([0.52728609, 0.99198582])]
+[None None 2 -0.7980319857597351 None None None 0.8
+ array([0.0946411, 0.9929078])]
+[None None 3 0.17055672407150269 None None None 0.8
+ array([0.0946411, 0.9929078])]
+[None None None None None None None 0.8 array([0.0946411, 0.9929078])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 0 0.17055672407150269
+ None None None 0.8 array([0.0946411, 0.9929078])]
+[None None 1 0.17055672407150269 None None None 0.8
+ array([0.0946411 , 0.99078014])]
+[None None None None None None None 0.8 array([0.12168142, 0.9822695 ])]
+[None None 5 0.1496727019548416 None None None 0.8
+ array([0.12168142, 0.98085106])]
+[None None 3 0.15078382194042206 None None None 0.8
+ array([0.12168142, 0.9858156 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.12168142, 0.9858156 ])]
+[None None 4 0.15094254910945892 None None None 0.8
+ array([0.12168142, 0.98879433])]
+[None None 4 0.15241873264312744 None None None 0.8
+ array([0.12168142, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.12168142, 0.9929078 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 5 0.15252985060214996
+ None None None 0.8 array([0.12168142, 0.9929078 ])]
+[None None 2 0.15252985060214996 None None None 0.8
+ array([0.12168142, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.12168142, 0.9929078 ])]
+[None None 3 0.15252985060214996 None None None 0.8
+ array([0.12168142, 0.9929078 ])]
+[None None 2 0.15252985060214996 None None None 0.8
+ array([0.12168142, 0.9929078 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.12168142, 0.9929078 ])]
+[None None 1 0.15252985060214996 None None None 0.8
+ array([0.14872173, 0.98567376])]
+[None None 5 0.13174106180667877 None None None 0.8
+ array([0.14872173, 0.97971631])]
+[None None None None None None None 0.8 array([0.14872173, 0.9848227 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 0 0.1327410638332367
+ None None None 0.8 array([0.14872173, 0.99028369])]
+[None None 3 0.13434424996376038 None None None 0.8
+ array([0.14872173, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.14872173, 0.9929078 ])]
+[None None 4 0.13450297713279724 None None None 0.8
+ array([0.14872173, 0.9929078 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 2 0.13450297713279724
+ None None None 0.8 array([0.14872173, 0.9929078 ])]
+[None None 2 0.13450297713279724 None None None 0.8
+ array([0.14872173, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.14872173, 0.9929078 ])]
+[None None 3 0.13450297713279724 None None None 0.8
+ array([0.14872173, 0.9929078 ])]
+[None None 1 0.13450297713279724 None None None 0.8
+ array([0.14872173, 0.99205674])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.14872173, 0.98141844])]
+[None None 3 0.131550595164299 None None None 0.8
+ array([0.14872173, 0.9787234 ])]
+[None None None None None None None 0.8 array([0.14872173, 0.9787234 ])]
+[None None 3 0.13132837414741516 None None None 0.8
+ array([0.14872173, 0.9787234 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 2 0.13132837414741516
+ None None None 0.8 array([0.14872173, 0.9787234 ])]
+[None None 5 0.13132837414741516 None None None 0.8
+ array([0.14872173, 0.97893617])]
+[None None None None None None None 0.8 array([0.14872173, 0.98297872])]
+[None None 1 0.13266170024871826 None None None 0.8
+ array([0.14872173, 0.98106383])]
+[None None 2 0.12994742393493652 None None None 0.8
+ array([0.14872173, 0.97163121])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.14872173, 0.97163121])]
+[None None 1 0.12974107265472412 None None None 0.8
+ array([0.17576202, 0.96652482])]
+[None None 0 0.10866659134626389 None None None 0.8
+ array([0.17576202, 0.95758865])]
+[None None None None None None None 0.8 array([0.17576202, 0.96191489])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 0 0.10987293720245361
+ None None None 0.8 array([0.17576202, 0.96744681])]
+[None None 3 0.1114443689584732 None None None 0.8
+ array([0.17576202, 0.97163121])]
+[None None None None None None None 0.8 array([0.17576202, 0.97163121])]
+[None None 1 0.111714206635952 None None None 0.8
+ array([0.17576202, 0.96567376])]
+[None None 5 0.10885706543922424 None None None 0.8
+ array([0.17576202, 0.95829787])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.17576202, 0.96340426])]
+[None None 0 0.10992055386304855 None None None 0.8
+ array([0.17576202, 0.96808511])]
+[None None 2 0.11158722639083862 None None None 0.8
+ array([0.17576202, 0.97163121])]
+[None None None None None None None 0.8 array([0.17576202, 0.97163121])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 3 0.111714206635952
+ None None None 0.8 array([0.17576202, 0.97163121])]
+[None None 4 0.111714206635952 None None None 0.8
+ array([0.17576202, 0.97375887])]
+[None None None None None None None 0.8 array([0.17576202, 0.97822695])]
+[None None 4 0.11319039762020111 None None None 0.8
+ array([0.17576202, 0.98212766])]
+[None None 2 0.11463484168052673 None None None 0.8
+ array([0.17576202, 0.9858156 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 3 None None None None
+ 0.8 array([0.17576202, 0.9858156 ])]
+[None None None 0.11488880962133408 None None None 0.8
+ array([0.17576202, 0.9858156 ])]
+[None None 1 0.11488880962133408 None None None 0.8
+ array([0.17576202, 0.98368794])]
+[None None None None None None None 0.8 array([0.17576202, 0.97347518])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 0 0.1121269091963768
+ None None None 0.8 array([0.17576202, 0.9758156 ])]
+[None None 1 0.11312690377235413 None None None 0.8
+ array([0.17576202, 0.97574468])]
+[None None None None None None None 0.8 array([0.17576202, 0.96595745])]
+[None None 0 0.11044436693191528 None None None 0.8
+ array([0.17576202, 0.96914894])]
+[None None 0 0.1116824597120285 None None None 0.8
+ array([0.17576202, 0.97397163])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 4 0.11314278095960617
+ None None None 0.8 array([0.17576202, 0.97886525])]
+[None None None None None None None 0.8 array([0.20280234, 0.9841844 ])]
+[None None 5 0.08335399627685547 None None None 0.8
+ array([0.20280234, 0.98858156])]
+[None None 0 0.08490955084562302 None None None 0.8
+ array([0.20280234, 0.9929078 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.20280234, 0.9929078 ])]
+[None None 2 0.08511590212583542 None None None 0.8
+ array([0.20280234, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.20280234, 0.9929078 ])]
+[None None 4 0.08511590212583542 None None None 0.8
+ array([0.20280234, 0.9929078 ])]
+[None None 1 0.08511590212583542 None None None 0.8
+ array([0.20280234, 0.98950355])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 2 0.08225876092910767
+ None None None 0.8 array([0.20280234, 0.97971631])]
+[None None None None None None None 0.8 array([0.20280234, 0.9787234 ])]
+[None None 4 0.08194129914045334 None None None 0.8
+ array([0.20280234, 0.98021277])]
+[None None None None None None None 0.8 array([0.20280234, 0.98489362])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 1 0.08332224935293198
+ None None None 0.8 array([0.20280234, 0.97574468])]
+[None None 0 0.08051272481679916 None None None 0.8
+ array([0.20280234, 0.97397163])]
+[None None 1 0.08178257197141647 None None None 0.8
+ array([0.20280234, 0.97822695])]
+[None None None None None None None 0.8 array([0.20280234, 0.97014184])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 4 0.07897304743528366
+ None None None 0.8 array([0.20280234, 0.96687943])]
+[None None 5 0.0801476463675499 None None None 0.8
+ array([0.20280234, 0.97113475])]
+[None None None None None None None 0.8 array([0.20280234, 0.97198582])]
+[None None None None None None None 0.8 array([0.20280234, 0.97347518])]
+[None None None None None None None 0.8 array([0.20280234, 0.97602837])]
+[None None 1 0.08181431889533997 None None None 0.8
+ array([0.20280234, 0.9787234 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.20280234, 0.97191489])]
+[None None 1 0.0794651061296463 None None None 0.8
+ array([0.20280234, 0.96255319])]
+[None None None None None None None 0.8 array([0.20280234, 0.95361702])]
+[None None 5 0.07622701674699783 None None None 0.8
+ array([0.20280234, 0.95510638])]
+[None None 1 0.07717939466238022 None None None 0.8
+ array([0.20280234, 0.95702128])]
+[None None None None None None None 0.8 array([0.20280234, 0.94765957])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 4 0.07441748678684235
+ None None None 0.8 array([0.20280234, 0.94723404])]
+[None None 0 0.07556034624576569 None None None 0.8
+ array([0.20280234, 0.95120567])]
+[None None None None None None None 0.8 array([0.20280234, 0.95609929])]
+[None None 0 0.07702066749334335 None None None 0.8
+ array([0.20280234, 0.96035461])]
+[None None 5 0.07859209179878235 None None None 0.8
+ array([0.20280234, 0.96539007])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.20280234, 0.97070922])]
+[None None 4 0.0801476463675499 None None None 0.8
+ array([0.20280234, 0.9751773 ])]
+[None None 3 0.08171907812356949 None None None 0.8
+ array([0.20280234, 0.9787234 ])]
+[None None None None None None None 0.8 array([0.20280234, 0.9787234 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 1 0.08194129914045334
+ None None None 0.8 array([0.20280234, 0.97106383])]
+[None None 2 0.07908415794372559 None None None 0.8
+ array([0.22984265, 0.96453901])]
+[None None None None None None None 0.8 array([0.22984265, 0.96453901])]
+[None None 3 0.06073981896042824 None None None 0.8
+ array([0.22984265, 0.96453901])]
+[None None 5 0.06073981896042824 None None None 0.8
+ array([0.22984265, 0.96624113])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 5 0.06216839328408241
+ None None None 0.8 array([0.22984265, 0.97113475])]
+[None None None None None None None 0.8 array([0.22984265, 0.97539007])]
+[None None 0 0.06378743797540665 None None None 0.8
+ array([0.22984265, 0.9793617 ])]
+[None None None None None None None 0.8 array([0.22984265, 0.98468085])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 3 0.06524775922298431
+ None None None 0.8 array([0.22984265, 0.9858156 ])]
+[None None 5 0.06550172716379166 None None None 0.8
+ array([0.22984265, 0.98794326])]
+[None None None None None None None 0.8 array([0.22984265, 0.99241135])]
+[None None 5 -0.5996887683868408 None None None 0.8
+ array([0.22984265, 0.9929078 ])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 0 -0.5995776653289795
+ None None None 0.8 array([0.22984265, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.22984265, 0.9929078 ])]
+[None None 0 -0.5995776653289795 None None None 0.8
+ array([0.22984265, 0.9929078 ])]
+[None None 1 -0.5995776653289795 None None None 0.8
+ array([0.22984265, 0.9929078 ])]
+[None None None None None None None 0.8 array([0.22984265, 0.98524823])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None 1 -0.6024347543716431
+ None None None 0.8 array([0.22984265, 0.97489362])]
+[None None 1 -0.6054189205169678 None None None 0.8
+ array([0.22984265, 0.96468085])]
+[None None None None None None None 0.8 array([0.22984265, 0.95531915])]
+[None None 3 -0.6087522506713867 None None None 0.8
+ array([0.22984265, 0.95035461])]
+[None None 1 -0.6091014742851257 None None None 0.8
+ array([0.22984265, 0.94780142])]
+[array([[0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        ...,
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0],
+        [0, 0, 0, ..., 0, 0, 0]], dtype=uint8) None None None None None
+ None 0.8 array([0.22984265, 0.9422695 ])]
+[None None None None None None None 0.8 None]
+[None None None None None None None 0.8 None]
+[None None None None None None None 0.8 array([0.22984265, 0.94184397])]
+[None None None None None None None 0.8 array([0.22984265, 0.94184397])]
