@@ -1,5 +1,3 @@
-# Untitled
-
 # rl_race
 
 🚗 **rl_race** is a **ROS 2 package** for reinforcement learning in autonomous racing tasks.
